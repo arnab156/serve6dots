@@ -1,0 +1,1 @@
+Serve six dots is a project to support accesibility efforts.
