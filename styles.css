@@ -52,3 +52,7 @@
 .container {
   margin-top: 1rem;
 }
+
+.container > .bg-light {
+  background: linear-gradient(rgba(255,255,255,.9), rgba(255,255,255,.7)), url('./assets/serve6Dots.jpg') no-repeat fixed center;
+}
