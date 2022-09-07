@@ -56,3 +56,16 @@
 .container > .bg-light {
   background: linear-gradient(rgba(255,255,255,.9), rgba(255,255,255,.7)), url('./assets/serve6Dots.jpg') no-repeat fixed center;
 }
+
+.logo-thumbnail {
+  height: 48px;
+}
+
+.profilePhoto{
+  height: 212px;
+  margin: 18px;
+}
+
+.addTopMargin {
+  padding-top: 18px;
+}
