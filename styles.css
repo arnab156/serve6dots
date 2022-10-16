@@ -51,11 +51,12 @@
 
 .container {
   margin-top: 1rem;
+  /* background: linear-gradient(rgba(255,255,255,.9), rgba(25, 22, 22, 0.7)); */
 }
 
 .container > .bg-light {
-  background: linear-gradient(rgba(255,255,255,.9), rgba(255,255,255,.7)), url('./assets/serve6Dots.jpg') no-repeat fixed center;
   min-height: 100vh;
+  background: transparent;
 }
 
 .logo-thumbnail {
